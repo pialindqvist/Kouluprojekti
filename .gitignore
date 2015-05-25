@@ -1,4 +1,5 @@
 test1.txt
+.DC_Store
 *~
 *.logdb/schema.rb
 tmp/*/*
